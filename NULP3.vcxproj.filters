@@ -18,5 +18,8 @@
     <ClCompile Include="NULP3.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="NULP6Alaba.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
