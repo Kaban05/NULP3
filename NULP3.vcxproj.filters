@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="NULP3.c">
+    <ClCompile Include="Laba6.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="NULP6Alaba.c">
+    <ClCompile Include="Laba6a.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -127,8 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="NULP3.c" />
-    <ClCompile Include="NULP6Alaba.c" />
+    <ClCompile Include="Laba6a.c" />
+    <ClCompile Include="Laba6.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
