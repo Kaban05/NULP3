@@ -4,12 +4,12 @@
 #include <stdio.h>
 
 int main() {
-    int z;
-    int w;
-    int x = 1;
-    int y = 2;
-    z = y + x;
-    w = y - x;
+	int z;
+	int w;
+	int x = 1;
+	int y = 2;
+	z = y + x;
+	w = y - x;
 }
 
 //Zavdannya 2
@@ -34,14 +34,14 @@ main() {
 #include <stdio.h>
 #include <windows.h>
 main() {
-    SetConsoleOutputCP(1251);
-    SetConsoleCP(1251);
-    printf("%f\n", 6543.21);
-    printf("%e\n", 6543.21);
-    printf("%4.2f\n", 6543.21);
-    printf("%3.1f\n", 6543.21);
-    printf("%10.3f\n", 6543.21);
-    printf("%10.3e\n", 6543.21);
+	SetConsoleOutputCP(1251);
+	SetConsoleCP(1251);
+	printf("%f\n", 6543.21);
+	printf("%e\n", 6543.21);
+	printf("%4.2f\n", 6543.21);
+	printf("%3.1f\n", 6543.21);
+	printf("%10.3f\n", 6543.21);
+	printf("%10.3e\n", 6543.21);
 }
 
 //Zavdannya 4
@@ -52,10 +52,10 @@ main() {
 
 main()
 {
-    SetConsoleOutputCP(1251);
-    SetConsoleCP(1251);
-    printf("/%2s/\n", riadok);
-    printf("/%15.s/\n", riadok);
+	SetConsoleOutputCP(1251);
+	SetConsoleCP(1251);
+	printf("/%2s/\n", riadok);
+	printf("/%15.s/\n", riadok);
 }
 
 //Zavdannya 5
